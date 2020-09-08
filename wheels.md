@@ -1,0 +1,11 @@
+
+- Isn't programming a system, along with tools *and* creating episodes too much, over-extension? 
+- On the contrary:
+    - it's like the number of wheels of a vehicle: one is the smallest, but least stable. 4 is *4 times more* but you get the car and can travel
+    - can a car have less, 3 wheels? yes, but is makes a car unstable, it can roll over like a Reliant Robin
+    - creating episodes is voice, expression, somehting for everyone to consume
+    - that makes the jouney balanced: building (silence, process) and episodes (voice, expression, for everyone)
+    - building systems is an adventure, a core material for the episodes
+    - it's like internet and content, hardware and operating system, game and players: make sense as a combo
+- the content needs to have meaning, value, saltiness, real emotion - it needs real process behind
+- real process needs a humane, sincere outlet, expression, non-specific, abstract, for anyone to watch, enjoy, contemplate, discuss 
