@@ -6,12 +6,26 @@ expression/entertainment/animated series
 - people choose programming because it lets us hide, be voiceless - survive via craft
 - but it is unhealthy - not the programs, but the culture of being silent for sefety
 - the reason I program is to create a lacking type of game, have events, compete and communicate with others
-- but the fucking "how.. this possible?" "how .. that, possible?" allows concerns to lead, instead of will/meaning/value
+- but the damn "how.. this possible?" "how .. that, possible?" allows concerns to lead, instead of will/meaning/value
 - the commitment should come first, the how gets figured out
+
+just like Jesus says:
+
+    25 Large crowds were traveling with Jesus, and turning to them he said: 26 “If anyone comes to me and does not hate father and mother, wife and children, brothers and sisters—yes, even their own life—such a person cannot be my disciple. 27 And whoever does not carry their cross and follow me cannot be my disciple.
+
+    28 “Suppose one of you wants to build a tower. Won’t you first sit down and estimate the cost to see if you have enough money to complete it? 29 For if you lay the foundation and are not able to finish it, everyone who sees it will ridicule you, 30 saying, ‘This person began to build and wasn’t able to finish.’
+
+    31 “Or suppose a king is about to go to war against another king. Won’t he first sit down and consider whether he is able with ten thousand men to oppose the one coming against him with twenty thousand? 32 If he is not able, he will send a delegation while the other is still a long way off and will ask for terms of peace. 33 In the same way, those of you who do not give up everything you have cannot be my disciples.
+
+    34 “Salt is good, but if it loses its saltiness, how can it be made salty again? 35 It is fit neither for the soil nor for the manure pile; it is thrown out.
+
+    “Whoever has ears to hear, let them hear.”
+
+[NIV Luke 14](biblica.com/bible/niv/luke/14/)
 
 ## building in silence
 
-- I find myself building the system alone, in silence
+- isn't that a rediculour norm -  building the system alone, in silence
 - but: there is a ocean of emotions, stories, concerns that are happening, both factually and abstract
 - the journey - as a human being, the story, not commit history - gets lost
 - but worse - you have no way to sahre emotions, thoughts, experience with others, so you boil in solitude
