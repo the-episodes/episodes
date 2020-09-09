@@ -38,10 +38,10 @@
 - actors, directors, survivors - all pull their hair out in fury and frustration - wtf? the damn planet is about to be destroyed, and we are arguing about money and rights
 - crews start shooting on their phones, scripts are written on napkins
 
-#### on earth: a character that wants to escape to vitaal
+#### some people want to escape to vitaal
 
-- character pushes their hardest to learn philosophy and stuff, to please/surprise vitaal
-- which are f-ing comtemplating annihilation of the planet, not even reaching out, so the character is just guessing that sophistication will help
+- people push their hardest to learn philosophy and stuff, to please/surprise vitaal
+- which are not even indicating anything, pondering annihilation of the planet, like one thinks of keeping or removing a plant from a garden
 
 #### space missions science teams 
 
