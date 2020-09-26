@@ -30,3 +30,7 @@
 - it is not critical, depends on tools
 - story, voice, epsiode directing is the key - in other words, meaning - tools  are secondary, but would be nice
 
+## b-roll
+
+- as a separate video or after the episode, show (web cam recording) of how the episode was voiced over or programmed etc.
+- so that no hiding
