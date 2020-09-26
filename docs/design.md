@@ -34,3 +34,7 @@
 
 - as a separate video or after the episode, show (web cam recording) of how the episode was voiced over or programmed etc.
 - so that no hiding
+
+## write first epsisode, then tooling
+
+- first step, write first episode, then check out tooling
