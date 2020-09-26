@@ -54,3 +54,5 @@
 - they are concerned: can they do it before vitaal shoot, but that's pretty much it
 - they want to play the game (one tourney at least), so they push
 - coincidentally and funny, it's the game that vitaal will appreciate and decide not to wipe the planet
+
+
