@@ -1,6 +1,7 @@
 # episodes
 
-- animated series to talk about process/emotions/thoughts behind the projects' journey, via abstractions, so it is fun and fresh and understandable to anyone, not just some cricle
+- ~~animated series to talk about process/emotions/thoughts behind the projects' journey, via abstractions, so it is fun and fresh and understandable to anyone, not just some cricle~~
+- now, it's a project of it's own, project coverage will be done via https://github.com/DeathStarGame/production-vlog
 
 ## writing vs making the first epsiode
 
